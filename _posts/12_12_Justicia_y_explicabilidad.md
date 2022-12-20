@@ -11,7 +11,3 @@ Los sistemas recomendadores al igual que el resto de tecnología de inteligencia
 
 Otro punto para mencionar es la importancia de indicar el origen de los datos de los sistemas recomendadores, si son datos de uso personal deben tener los permisos correspondientes y se deben gestionar con el cuidado pertinente. También se debe informar cómo se obtuvieron los datos, ya que pueden tener datos erróneos de una persona y solo entregando el resultado final del algoritmo la persona no sabría de este problema.
 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
