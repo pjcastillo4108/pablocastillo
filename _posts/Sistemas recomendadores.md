@@ -10,8 +10,3 @@ Las decisiones que toman las máquinas tienen impacto en la vida de los humanos,
 Los sistemas recomendadores al igual que el resto de tecnología de inteligencia artificial usa datos como evidencia para una conclusión, pero es muy difícil exponer la conexión entre los datos y la conclusión. A pesar de esto, se debe exigir un mínimo de transparencia que permita de manera sencilla y de fácil acceso a las personas entender y poder generar un debate de sí, las variables o datos usados son válidos o no. Por ejemplo, el sistema de recomendación de youtube debería poder indicar las variables más relevantes del usuario y del video a mostrar, se podría dar el caso que no estén usando la variable edad y esto genere que se recomiende videos con mensajes conflictivos a menores de edad. Es importante que se generen debates en torno a como se realizan las recomendaciones, para así avanzar en mejores algoritmos, pero sin olvidar el objetivo que es mejorar la experiencia del usuario y no el usuario mejorar el resultado del algoritmo.
 
 Otro punto para mencionar es la importancia de indicar el origen de los datos de los sistemas recomendadores, si son datos de uso personal deben tener los permisos correspondientes y se deben gestionar con el cuidado pertinente. También se debe informar cómo se obtuvieron los datos, ya que pueden tener datos erróneos de una persona y solo entregando el resultado final del algoritmo la persona no sabría de este problema.
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
